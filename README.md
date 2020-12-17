@@ -5,9 +5,11 @@ En este repositorio se encuentran incluídos todos los trabajos realizados duran
 
 * Programación
   - Introducción al lenguaje de programación
-    [-Práctica 1] ( https://github.com/arelyrosas/PyMN2020/tree/main/Pr%C3%A1ctica%201)
+    - [Práctica 1]( https://github.com/arelyrosas/PyMN2020/tree/main/Pr%C3%A1ctica%201)
   - Estructuras de control selectivas
+    - [Práctica 2]( https://github.com/arelyrosas/PyMN2020/tree/main/Pr%C3%A1ctica%202)
   - Estructuras de control repetitivas
+    - [Práctica 2]( https://github.com/arelyrosas/PyMN2020/tree/main/Pr%C3%A1ctica%202)
   - Funciones
   - Arreglos
 * Métodos numéricos
