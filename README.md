@@ -5,6 +5,7 @@ En este repositorio se encuentran incluídos todos los trabajos realizados duran
 
 * Programación
   - Introducción al lenguaje de programación
+    [-Práctica 1] ( https://github.com/arelyrosas/PyMN2020/tree/main/Pr%C3%A1ctica%201)
   - Estructuras de control selectivas
   - Estructuras de control repetitivas
   - Funciones
