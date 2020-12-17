@@ -24,5 +24,6 @@ En este repositorio se encuentran incluídos todos los trabajos realizados duran
   - Solución de ecuaciones lineales por métodos iterativos: Jacobi y Gauss Jordan  
 ________________________________________________________________________________________________________________________
 
-Elaborado por: _Arely A. Rosas Borboa_ ![luna icon](https://user-images.githubusercontent.com/72161582/102473674-9778e580-400c-11eb-98c3-6d440ea0b70a.png)
+Elaborado por: _Arely A. Rosas Borboa_ ![icon chiquito](https://user-images.githubusercontent.com/72161582/102474177-30a7fc00-400d-11eb-93df-761521ca310c.png)
+
 
