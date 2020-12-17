@@ -1,7 +1,8 @@
 # Universidad Autónoma de Baja California
 ## _Programación y Métodos Numéricos_
 
-En este repositorio se encuentran incluídos todos los trabajos realizados durante el periodo escolar. 
+En este repositorio se encuentran incluídos todos los trabajos realizados durante el periodo escolar. ![math-book](https://user-images.githubusercontent.com/72161582/102466068-54664480-4003-11eb-9e6c-5f32f6611a3d.png)
+
 
 * Programación
   - Introducción al lenguaje de programación
