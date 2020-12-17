@@ -18,6 +18,7 @@ En este repositorio se encuentran incluídos todos los trabajos realizados duran
   - Métodos de integración numérica de Trapecio Simple y Trapecio Múltiple
   - Método de Simpson y diferenciación numérica
   - Solución de ecuaciones lineales mediante matriz inversa y Gauss Jordan
-  - Solución de ecuaciones lineales por métodos iterativos: Jacobi y Gauss Jordan 
+  - Solución de ecuaciones lineales por métodos iterativos: Jacobi y Gauss Jordan  
 ________________________________________________________________________________________________________________________
+
 Elaborado por: _Arely A. Rosas Borboa_
