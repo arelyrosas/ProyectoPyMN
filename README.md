@@ -1,6 +1,6 @@
-#       Universidad Autónoma de Baja California
-# ![logotspeque](https://user-images.githubusercontent.com/72161582/102661051-f172cb80-4130-11eb-846b-64545b2dde06.jpg)
+# ![estos son](https://user-images.githubusercontent.com/72161582/102662716-3b10e580-4134-11eb-8a1e-4624ad50e5ba.jpg)
 
+#       Universidad Autónoma de Baja California
 ##       _Programación y Métodos Numéricos_
 
 En este repositorio se encuentran incluídos todos los trabajos realizados durante el periodo escolar. 
