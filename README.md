@@ -1,5 +1,5 @@
 #       Universidad Autónoma de Baja California
-#  ![logotspeque](https://user-images.githubusercontent.com/72161582/102661051-f172cb80-4130-11eb-846b-64545b2dde06.jpg)
+# ![logotspeque](https://user-images.githubusercontent.com/72161582/102661051-f172cb80-4130-11eb-846b-64545b2dde06.jpg)
 
 ##       _Programación y Métodos Numéricos_
 
@@ -31,8 +31,9 @@ En este repositorio se encuentran incluídos todos los trabajos realizados duran
     - Solución de ecuaciones lineales mediante matriz inversa y Gauss Jordan
     - Solución de ecuaciones lineales por métodos iterativos: Jacobi y Gauss Jordan  
       - [Práctica 11](https://github.com/arelyrosas/PyMN2020/tree/main/Práctica%2011)
+      
 ________________________________________________________________________________________________________________________
 
-Elaborado por: _Arely A. Rosas Borboa_ ![icon chiquito](https://user-images.githubusercontent.com/72161582/102474177-30a7fc00-400d-11eb-93df-761521ca310c.png)
+Elaborado por: [_Arely A. Rosas Borboa_](https://www.youtube.com/watch?v=cJv3YLxZ2wk) ☼
 
 
